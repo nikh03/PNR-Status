@@ -12,4 +12,4 @@ In PNR their are various types of reservation types viz. as follows-
   
   We have to select the type of tickets which we have taken., On that basis we have to proceed.
   
-  For Proper Understanding visit the Project Website-'PNR STATUS'.
+  For Proper Understanding visit the Project Website-'PNR STATUS.html'.
